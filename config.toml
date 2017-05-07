@@ -1,3 +1,90 @@
-baseURL = "http://example.org/"
+baseurl = "https://zhmp.net"
+theme = "dimension"
 languageCode = "en-us"
-title = "My New Hugo Site"
+
+[params]
+  title = "Anthony Cast"
+  author = "Anthony Cast"
+  description = "analyst archer boardgamer cartographer cyclist father intj linuxer motorcyclist pragmatist producer reader runner skeptic"
+  logo = "fa-coffee"
+  copyright = "2017"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "https://twitter.com/anthonycast"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/anthony.cast"
+
+[[params.social]]
+  medium = "pinterest"
+  icon = "pinterest"
+  link = "https://www.pinterest.com/anthonycast/"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "https://github.com/anonyth"
+
+[[params.social]]
+  medium = "tumblr"
+  icon = "tumblr"
+  link = "http://anonyth.tumblr.com/"
+
+[[params.social]]
+  medium = "medium"
+  icon = "medium"
+  link = "https://medium.com/@anthonycast"
+
+[[params.social]]
+  medium = "linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/anthonycast/"
+
+[[params.social]]
+  medium = "lastfm"
+  icon = "lastfm"
+  link = "https://www.last.fm/user/designori"
+
+[[params.social]]
+  medium = "google"
+  icon = "google-plus"
+  link = "https://plus.google.com/107910329408288699054"
+
+[[params.social]]
+  medium = "drupal"
+  icon = "drupal"
+  link = "https://www.drupal.org/u/anonyth"
+
+[[params.social]]
+  medium = "pinboard"
+  icon = "bookmark-o"
+  link = "https://pinboard.in/u:voigtkampff"
+
+[[params.social]]
+  medium = "angellist"
+  icon = "angellist"
+  link = "https://angel.co/anthony-cast"
+
+[[params.social]]
+  medium = "boardgamegeek"
+  icon = "cubes"
+  link = "https://www.boardgamegeek.com/user/voigtkampff"
+
+[[params.social]]
+  medium = "remote"
+  icon = "briefcase"
+  link = "https://remote.com/anthonycast"
+
+[[params.social]]
+  medium = "instapaper"
+  icon = "newspaper-o"
+  link = "https://www.instapaper.com/p/anthonycast"
+
+[[params.social]]
+  medium = "goodreads"
+  icon = "book"
+  link = "https://www.goodreads.com/user/show/155867-voigtkampff"
