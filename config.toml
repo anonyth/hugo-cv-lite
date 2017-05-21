@@ -5,8 +5,8 @@ languageCode = "en-us"
 [params]
   title = "Anthony Cast"
   author = "Anthony Cast"
-  description = "analyst archer boardgamer cartographer cyclist father intj linuxer motorcyclist pragmatist producer reader runner skeptic"
-  logo = "fa-coffee"
+  description = "analyst boardgamer cartographer cyclist director father intj pragmatist producer reader runner skeptic"
+  logo = "fa-rocket"
   copyright = "2017"
 
 [[params.social]]
@@ -18,6 +18,11 @@ languageCode = "en-us"
   medium = "facebook"
   icon = "facebook"
   link = "https://www.facebook.com/anthony.cast"
+
+[[params.social]]
+  medium = "google"
+  icon = "google-plus"
+  link = "https://plus.google.com/107910329408288699054"
 
 [[params.social]]
   medium = "pinterest"
@@ -35,29 +40,14 @@ languageCode = "en-us"
   link = "http://anonyth.tumblr.com/"
 
 [[params.social]]
-  medium = "medium"
-  icon = "medium"
-  link = "https://medium.com/@anthonycast"
-
-[[params.social]]
-  medium = "linkedin"
-  icon = "linkedin"
-  link = "https://www.linkedin.com/in/anthonycast/"
-
-[[params.social]]
   medium = "lastfm"
   icon = "lastfm"
   link = "https://www.last.fm/user/designori"
 
 [[params.social]]
-  medium = "google"
-  icon = "google-plus"
-  link = "https://plus.google.com/107910329408288699054"
-
-[[params.social]]
-  medium = "drupal"
-  icon = "drupal"
-  link = "https://www.drupal.org/u/anonyth"
+  medium = "bandcamp"
+  icon = "music"
+  link = "https://bandcamp.com/anonyth"
 
 [[params.social]]
   medium = "pinboard"
@@ -65,14 +55,14 @@ languageCode = "en-us"
   link = "https://pinboard.in/u:voigtkampff"
 
 [[params.social]]
+  medium = "linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/anthonycast/"
+
+[[params.social]]
   medium = "angellist"
   icon = "angellist"
   link = "https://angel.co/anthony-cast"
-
-[[params.social]]
-  medium = "boardgamegeek"
-  icon = "cubes"
-  link = "https://www.boardgamegeek.com/user/voigtkampff"
 
 [[params.social]]
   medium = "remote"
@@ -80,9 +70,19 @@ languageCode = "en-us"
   link = "https://remote.com/anthonycast"
 
 [[params.social]]
+  medium = "boardgamegeek"
+  icon = "cubes"
+  link = "https://www.boardgamegeek.com/user/voigtkampff"
+
+[[params.social]]
   medium = "instapaper"
   icon = "newspaper-o"
   link = "https://www.instapaper.com/p/anthonycast"
+
+[[params.social]]
+  medium = "medium"
+  icon = "medium"
+  link = "https://medium.com/@anthonycast"
 
 [[params.social]]
   medium = "goodreads"
