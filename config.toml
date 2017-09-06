@@ -5,7 +5,7 @@ languageCode = "en-us"
 [params]
   title = "Anthony Cast"
   author = "Anthony Cast"
-  description = "analyst boardgamer cartographer cyclist director father intj pragmatist producer reader runner skeptic"
+  description = "analyst boardgamer cyclist director doer explorer father humanist intj leader partner pragmatist reader runner skeptic"
   logo = "fa-rocket"
   copyright = "2017"
 
@@ -70,6 +70,11 @@ languageCode = "en-us"
   link = "https://remote.com/anthonycast"
 
 [[params.social]]
+  medium = "hired"
+  icon = "industry"
+  link = "https://hired.com/profile.anthony-cast"
+
+[[params.social]]
   medium = "boardgamegeek"
   icon = "cubes"
   link = "https://www.boardgamegeek.com/user/voigtkampff"
@@ -87,4 +92,4 @@ languageCode = "en-us"
 [[params.social]]
   medium = "goodreads"
   icon = "book"
-  link = "https://www.goodreads.com/user/show/155867-voigtkampff"
+  link = "https://goodreads.com/anonyth"
