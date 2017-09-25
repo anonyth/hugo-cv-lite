@@ -35,21 +35,6 @@ languageCode = "en-us"
   link = "https://github.com/anonyth"
 
 [[params.social]]
-  medium = "lastfm"
-  icon = "lastfm"
-  link = "https://www.last.fm/user/designori"
-
-[[params.social]]
-  medium = "bandcamp"
-  icon = "bandcamp"
-  link = "https://bandcamp.com/anonyth"
-
-[[params.social]]
-  medium = "pinboard"
-  icon = "bookmark-o"
-  link = "https://pinboard.in/u:voigtkampff"
-
-[[params.social]]
   medium = "drupal"
   icon = "drupal"
   link = "https://www.drupal.org/u/anonyth"
@@ -73,6 +58,21 @@ languageCode = "en-us"
   medium = "hired"
   icon = "industry"
   link = "https://hired.com/profile.anthony-cast"
+
+[[params.social]]
+  medium = "lastfm"
+  icon = "lastfm"
+  link = "https://www.last.fm/user/designori"
+
+[[params.social]]
+  medium = "bandcamp"
+  icon = "bandcamp"
+  link = "https://bandcamp.com/anonyth"
+
+[[params.social]]
+  medium = "pinboard"
+  icon = "bookmark-o"
+  link = "https://pinboard.in/u:voigtkampff"
 
 [[params.social]]
   medium = "boardgamegeek"
@@ -103,6 +103,11 @@ languageCode = "en-us"
   medium = "quora"
   icon = "quora"
   link = "https://www.quora.com/profile/anthony-cast"
+
+[[params.social]]
+  medium = "geocaching"
+  icon = "map-o"
+  link = "https://www.geocaching.com/p/default.aspx?guid=ccf42981-c2cb-4bf2-983b-cd361fd9d011"
 
 [[params.social]]
   medium = "meetup"
