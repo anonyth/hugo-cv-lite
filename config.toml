@@ -35,24 +35,24 @@ languageCode = "en-us"
   link = "https://github.com/anonyth"
 
 [[params.social]]
-  medium = "tumblr"
-  icon = "tumblr"
-  link = "http://anonyth.tumblr.com/"
-
-[[params.social]]
   medium = "lastfm"
   icon = "lastfm"
   link = "https://www.last.fm/user/designori"
 
 [[params.social]]
   medium = "bandcamp"
-  icon = "music"
+  icon = "bandcamp"
   link = "https://bandcamp.com/anonyth"
 
 [[params.social]]
   medium = "pinboard"
   icon = "bookmark-o"
   link = "https://pinboard.in/u:voigtkampff"
+
+[[params.social]]
+  medium = "drupal"
+  icon = "drupal"
+  link = "https://www.drupal.org/u/anonyth"
 
 [[params.social]]
   medium = "linkedin"
@@ -93,3 +93,18 @@ languageCode = "en-us"
   medium = "goodreads"
   icon = "book"
   link = "https://goodreads.com/anonyth"
+
+[[params.social]]
+  medium = "tumblr"
+  icon = "tumblr"
+  link = "http://anonyth.tumblr.com/"
+
+[[params.social]]
+  medium = "quora"
+  icon = "quora"
+  link = "https://www.quora.com/profile/anthony-cast"
+
+[[params.social]]
+  medium = "meetup"
+  icon = "meetup"
+  link = "https://www.meetup.com/members/352189/"
