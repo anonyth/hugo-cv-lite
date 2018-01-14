@@ -8,6 +8,7 @@ languageCode = "en-us"
   description = "analyst boardgamer cyclist director explorer father humanist intj leader partner pragmatist reader runner skeptic"
   logo = "fa-rocket"
   copyright = "2017"
+  staticDir = "static"
 
 [[params.social]]
   medium = "twitter"
@@ -85,6 +86,11 @@ languageCode = "en-us"
   link = "https://www.instapaper.com/p/anthonycast"
 
 [[params.social]]
+  medium = "pocket"
+  icon = "get-pocket"
+  link = "https://getpocket.com/@anonyth"
+
+[[params.social]]
   medium = "medium"
   icon = "medium"
   link = "https://medium.com/@anthonycast"
@@ -113,3 +119,8 @@ languageCode = "en-us"
   medium = "meetup"
   icon = "meetup"
   link = "https://www.meetup.com/members/352189/"
+
+[[params.social]]
+  medium = "telegram"
+  icon = "telegram"
+  link = "https://t.me/anthonycast"
