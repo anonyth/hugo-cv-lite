@@ -36,6 +36,11 @@ languageCode = "en-us"
   link = "https://github.com/anonyth"
 
 [[params.social]]
+  medium = "keybase"
+  icon = "key"
+  link = "https://keybase.io/anonyth"
+
+[[params.social]]
   medium = "drupal"
   icon = "drupal"
   link = "https://www.drupal.org/u/anonyth"
