@@ -7,7 +7,7 @@ languageCode = "en-us"
   author = "Anthony Cast"
   description = "analyst boardgamer cyclist director explorer father humanist intj leader partner pragmatist reader runner skeptic"
   logo = "fa-rocket"
-  copyright = "2017"
+  copyright = "2018"
   staticDir = "static"
 
 [[params.social]]
@@ -61,11 +61,6 @@ languageCode = "en-us"
   link = "https://remote.com/anthonycast"
 
 [[params.social]]
-  medium = "hired"
-  icon = "industry"
-  link = "https://hired.com/profile.anthony-cast"
-
-[[params.social]]
   medium = "lastfm"
   icon = "lastfm"
   link = "https://www.last.fm/user/designori"
@@ -89,11 +84,6 @@ languageCode = "en-us"
   medium = "instapaper"
   icon = "newspaper-o"
   link = "https://www.instapaper.com/p/anthonycast"
-
-[[params.social]]
-  medium = "pocket"
-  icon = "get-pocket"
-  link = "https://getpocket.com/@anonyth"
 
 [[params.social]]
   medium = "medium"
