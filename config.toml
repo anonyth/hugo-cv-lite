@@ -86,6 +86,11 @@ languageCode = "en-us"
   link = "https://www.instapaper.com/p/anthonycast"
 
 [[params.social]]
+  medium = "pocket"
+  icon = "get-pocket"
+  link = "https://getpocket.com/@anonyth"
+  
+[[params.social]]
   medium = "medium"
   icon = "medium"
   link = "https://medium.com/@anthonycast"
