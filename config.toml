@@ -7,13 +7,18 @@ languageCode = "en-us"
   author = "Anthony Cast"
   description = "analyst boardgamer cyclist director explorer father humanist intj leader partner pragmatist reader runner skeptic"
   logo = "fa-rocket"
-  copyright = "2018"
+  copyright = "2019"
   staticDir = "static"
 
 [[params.social]]
   medium = "twitter"
   icon = "twitter"
   link = "https://twitter.com/anthonycast"
+
+[[params.social]]
+  medium = "mastodon"
+  icon = "paper-plane"
+  link = "https://mstdn.io/@anonyth"
 
 [[params.social]]
   medium = "facebook"
@@ -79,6 +84,11 @@ languageCode = "en-us"
   medium = "boardgamegeek"
   icon = "cubes"
   link = "https://www.boardgamegeek.com/user/voigtkampff"
+
+[[params.social]]
+  medium = "yucata"
+  icon = "user-o"
+  link = "https://www.yucata.de/en/user/anonyth"
 
 [[params.social]]
   medium = "instapaper"
