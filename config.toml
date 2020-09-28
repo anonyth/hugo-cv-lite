@@ -7,8 +7,11 @@ languageCode = "en-us"
   author = "Anthony Cast"
   description = "analyst boardgamer cyclist director father humanist intj leader partner pragmatist reader runner skeptic"
   logo = "fa-rocket"
-  copyright = "2019"
+  copyright = "2020"
   staticDir = "static"
+
+[markup]
+  defaultMarkdownHandler = "blackfriday"
 
 [[params.social]]
   medium = "twitter"
@@ -21,14 +24,9 @@ languageCode = "en-us"
   link = "https://mstdn.io/@anonyth"
 
 [[params.social]]
-  medium = "facebook"
-  icon = "facebook"
-  link = "https://www.facebook.com/anthony.cast"
-
-[[params.social]]
-  medium = "google"
-  icon = "google-plus"
-  link = "https://plus.google.com/107910329408288699054"
+  medium = "tildes"
+  icon = "pencil"
+  link = "https://tildes.net/user/anonyth"
 
 [[params.social]]
   medium = "pinterest"
@@ -78,7 +76,7 @@ languageCode = "en-us"
 [[params.social]]
   medium = "pinboard"
   icon = "bookmark-o"
-  link = "https://pinboard.in/u:voigtkampff"
+  link = "https://pinboard.in/u:anonyth"
 
 [[params.social]]
   medium = "boardgamegeek"
