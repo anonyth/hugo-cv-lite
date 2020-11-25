@@ -14,14 +14,14 @@ languageCode = "en-us"
   defaultMarkdownHandler = "blackfriday"
 
 [[params.social]]
-  medium = "twitter"
-  icon = "twitter"
-  link = "https://twitter.com/anthonycast"
-
-[[params.social]]
   medium = "mastodon"
   icon = "commenting-o"
   link = "https://mstdn.io/@anonyth"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "https://twitter.com/anthonycast"
 
 [[params.social]]
   medium = "tildes"
